@@ -1,0 +1,13 @@
+.login-btn {
+    position: absolute;
+    display: flex;
+    top: 12%;
+    right: 15%;
+  };
+
+.register-btn {
+  position: absolute;
+  display: flex;
+  top:10%;
+  right:5%;
+};
